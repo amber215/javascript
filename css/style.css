@@ -1,0 +1,18 @@
+body{ 
+    background-color:red;
+ }
+
+ h1{ 
+    color:yellow;
+    text-align: center;
+  }
+  .reminders{ 
+   color:pink; 
+}
+.practice{
+ color: green;
+ float: right;
+ height: 25;
+ width: 25%
+ background-color:white;
+
